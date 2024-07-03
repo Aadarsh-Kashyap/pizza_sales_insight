@@ -1,0 +1,20 @@
+Problem Statement :
+
+* KPI's Requirement
+We need to analyze key indicators for our pizza sales data to gain insights into our business performance metrics, we want to calculate the following metrics :
+
+1.Total Revenue : The sum of all pizza orders.
+2.Average order value : The average amount spent per order, calculated
+by dividing the total revenue by total number of orders.
+3.Total Pizza Solds: The sum of Quantity of all pizza.
+4.Total Orders : The total number of order placed.
+5 Average pizza per order : The average pizza sold per order, calculated by dividing the total number of pizzas sold by the total numbers of orders.
+
+Charts Requirement :
+1 Daily Trend : 
+2.Monthly trends
+3.Percentage of sales by Pizza Category.
+4.Percentage of Sales by Pizza Size.
+5.Total Pizza sold by pizza Category.
+6.Top 5 Best Sellers by Revenue.
+7.Bottom 5 Best/Worst sellers by Revenue, Total Quantity and Total orders.
